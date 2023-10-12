@@ -1,6 +1,6 @@
 # test-React-Nodejs
 
 # capture
-![Project img](https://github.com/sabirlkhaloufi/test_technique/blob/main/capture.png)
+![Project img](https://github.com/sabirlkhaloufi/test-React-Nodejs/blob/main/screen.png)
 
 
